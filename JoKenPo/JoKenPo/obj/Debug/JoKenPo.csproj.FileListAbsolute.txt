@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
+D:\Arquivos\GitHub\JoKenPo\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe.config
