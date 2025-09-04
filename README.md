@@ -34,6 +34,6 @@ Um simples jogo de **JoKenPo (Pedra, Papel e Tesoura)** desenvolvido em **C#** u
 JoKenPo/
 │── images/              # Imagens usadas no jogo (Pedra, Papel, Tesoura)
 │── Game.cs              # Classe principal com lógica e enums
-│── Form1.cs             # Interface do usuário
+│── Main.cs             # Interface do usuário
 │── Program.cs           # Ponto de entrada do app
 │── JoKenPo.csproj       # Arquivo do projeto
