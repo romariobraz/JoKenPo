@@ -1,6 +1,6 @@
 ﻿namespace JoKenPo
 {
-    partial class Form1
+    partial class Main
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -161,7 +161,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "JoKenPo";
             ((System.ComponentModel.ISupportInitialize)(this.picResultado)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

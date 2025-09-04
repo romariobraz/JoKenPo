@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|d:\\arquivos\\github\\jokenpo\\jokenpo\\jokenpo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|solutionrelative:jokenpo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|d:\\arquivos\\github\\jokenpo\\jokenpo\\jokenpo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|solutionrelative:jokenpo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|d:\\arquivos\\github\\jokenpo\\jokenpo\\jokenpo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|solutionrelative:jokenpo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|d:\\arquivos\\github\\jokenpo\\jokenpo\\jokenpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|solutionrelative:jokenpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|d:\\arquivos\\github\\jokenpo\\jokenpo\\jokenpo\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5362CFFD-988B-463F-8395-529E750991BE}|JoKenPo\\JoKenPo.csproj|solutionrelative:jokenpo\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Game.cs",
               "RelativeDocumentMoniker": "JoKenPo\\Game.cs",
               "ToolTip": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Game.cs",
               "RelativeToolTip": "JoKenPo\\Game.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwDUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T22:19:27.41Z",
+              "WhenOpened": "2025-09-04T02:52:58.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Form1.cs",
-              "RelativeDocumentMoniker": "JoKenPo\\Form1.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Form1.cs",
-              "RelativeToolTip": "JoKenPo\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Program.cs",
+              "RelativeDocumentMoniker": "JoKenPo\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Program.cs",
+              "RelativeToolTip": "JoKenPo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T22:18:09.238Z",
+              "WhenOpened": "2025-09-04T02:52:50.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Form1.cs",
-              "RelativeDocumentMoniker": "JoKenPo\\Form1.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Form1.cs [Design]",
-              "RelativeToolTip": "JoKenPo\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Main.cs",
+              "RelativeDocumentMoniker": "JoKenPo\\Main.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\JoKenPo\\JoKenPo\\JoKenPo\\Main.cs [Design]",
+              "RelativeToolTip": "JoKenPo\\Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T21:53:30.223Z",
               "EditorCaption": " [Design]"
